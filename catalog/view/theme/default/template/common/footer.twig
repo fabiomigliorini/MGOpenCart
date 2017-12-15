@@ -1,0 +1,58 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      {% if informations %}
+      <div class="col-sm-3">
+         <h5 class="mg_barratxtrodape"><strong>Sobre a MG Papelaria</strong><span></span></h5>
+        <ul class="list-unstyled">
+         {% for information in informations %}
+          <li><a href="{{ information.href }}">{{ information.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      
+      <div class="col-sm-3">
+        <a href="http://mgpapelaria.com.br/index.php?route=information/information&amp;information_id=8" class="mg_loja">
+        <strong>Botânico</strong><i></i><br>
+        <span> (66) 3515-0101</span><br>
+        <p>Av. das Sibipirunas, 1937 <br>
+        Jardim Botânico – Sinop/MT <br>
+        Cep 78.557-640 <br>
+        </p>
+      </a>
+      </div>
+       <div class="col-sm-3">
+        <a href="http://mgpapelaria.com.br/index.php?route=information/information&amp;information_id=7" class="mg_loja">
+        <strong>Centro</strong><i></i><br>
+        
+        <span> (66) 3531-1045</span><br>
+        <p>Av. das Sibipirunas, 3411 <br>
+        Centro - Sinop/MT <br>
+        Cep 78.550-230 <br>
+        </p>
+      </a>
+      </div>
+      <div class="col-sm-3">
+        <a href="http://mgpapelaria.com.br/index.php?route=information/information&amp;information_id=9" class="mg_loja">
+        <strong>Imperial</strong><i></i><br>
+        <span> (66) 3531-3599</span><br>
+        <p>Av. dos Ingás, 4123  <br>
+        Jardim Imperial – Sinop/MT <br>
+        Cep 78.555-036 <br>
+        </p>
+      </a>
+      </div>
+
+    </div>
+  </div>
+</footer>
+<div class="mg_rodape">MG Papelaria. Copyright © 2017 - Todos os direitos reservados </div>
+{% for script in scripts %}
+<script src="{{ script }}" type="text/javascript"></script>
+{% endfor %}
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+</body></html>

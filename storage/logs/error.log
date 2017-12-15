@@ -1,0 +1,139 @@
+2017-12-15 15:08:30 - PHP Warning:  fopen(/var/www/opencartmgpapelaria/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 14
+2017-12-15 15:08:30 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 16
+2017-12-15 15:08:30 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 18
+2017-12-15 15:08:30 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 20
+2017-12-15 15:08:30 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 22
+2017-12-15 15:08:30 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 24
+2017-12-15 15:08:42 - PHP Warning:  fopen(/var/www/opencartmgpapelaria/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 14
+2017-12-15 15:08:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 16
+2017-12-15 15:08:42 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 18
+2017-12-15 15:08:42 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 20
+2017-12-15 15:08:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 22
+2017-12-15 15:08:42 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 24
+2017-12-15 15:08:47 - PHP Warning:  fopen(/var/www/opencartmgpapelaria/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 14
+2017-12-15 15:08:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 16
+2017-12-15 15:08:47 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 18
+2017-12-15 15:08:47 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 20
+2017-12-15 15:08:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 22
+2017-12-15 15:08:47 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 24
+2017-12-15 15:08:48 - PHP Warning:  fopen(/var/www/opencartmgpapelaria/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 14
+2017-12-15 15:08:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 16
+2017-12-15 15:08:48 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 18
+2017-12-15 15:08:48 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 20
+2017-12-15 15:08:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 22
+2017-12-15 15:08:48 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 24
+2017-12-15 15:08:48 - PHP Warning:  fopen(/var/www/opencartmgpapelaria/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 14
+2017-12-15 15:08:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 16
+2017-12-15 15:08:48 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 18
+2017-12-15 15:08:48 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 20
+2017-12-15 15:08:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 22
+2017-12-15 15:08:48 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencartmgpapelaria/admin/controller/startup/sass.php on line 24
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): Permission denied in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 94
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): Permission denied in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  mkdir(): No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 102
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/cache/cache.catalog.language.1513354107): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/cache/cache.store.1513357544): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/cache/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/download/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/logs/error.log): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/logs/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/logs/openbay.log): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/modification/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/session/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/session/sess_97553d008b63001aa1e16f90ef): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/upload/index.html): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 16:06:27 - PHP Warning:  copy(/var/www/opencartmgpapelaria/storage/vendor/scss.inc.php): failed to open stream: No such file or directory in /var/www/opencartmgpapelaria/admin/controller/common/security.php on line 106
+2017-12-15 20:57:19 - PHP Notice:  Undefined index: product_id in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined variable: url in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined index: product_id in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined variable: url in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined index: product_id in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined variable: url in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined index: product_id in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 20:57:19 - PHP Notice:  Undefined variable: url in /var/www/opencartmgpapelaria/catalog/controller/extension/module/carousel.php on line 21
+2017-12-15 21:00:40 - PHP Notice:  Undefined index: start in /var/www/opencartmgpapelaria/catalog/model/catalog/manufacturer.php on line 31
+2017-12-15 21:00:40 - PHP Notice:  Undefined index: start in /var/www/opencartmgpapelaria/catalog/model/catalog/manufacturer.php on line 39
+2017-12-15 22:49:35 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 95
+2017-12-15 22:49:35 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 153
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:35 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:40 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 95
+2017-12-15 22:49:40 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 153
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 25
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 26
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 27
+2017-12-15 22:49:40 - PHP Notice:  Undefined index:  in /var/www/opencartmgpapelaria/system/library/cart/currency.php on line 30
+2017-12-15 22:49:41 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 95
+2017-12-15 22:49:41 - PHP Warning:  Cannot use a scalar value as an array in /var/www/opencartmgpapelaria/catalog/controller/startup/startup.php on line 153
